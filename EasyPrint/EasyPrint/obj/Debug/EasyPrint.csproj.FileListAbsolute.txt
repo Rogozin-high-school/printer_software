@@ -1,0 +1,15 @@
+C:\Users\yotam\Documents\rogozin_sat\printer_software\EasyPrint\EasyPrint\bin\Debug\EasyPrint.exe.config
+C:\Users\yotam\Documents\rogozin_sat\printer_software\EasyPrint\EasyPrint\bin\Debug\EasyPrint.exe
+C:\Users\yotam\Documents\rogozin_sat\printer_software\EasyPrint\EasyPrint\bin\Debug\EasyPrint.pdb
+C:\Users\yotam\Documents\rogozin_sat\printer_software\EasyPrint\EasyPrint\obj\Debug\EasyPrint.csprojResolveAssemblyReference.cache
+C:\Users\yotam\Documents\rogozin_sat\printer_software\EasyPrint\EasyPrint\obj\Debug\MainWindow.g.cs
+C:\Users\yotam\Documents\rogozin_sat\printer_software\EasyPrint\EasyPrint\obj\Debug\App.g.cs
+C:\Users\yotam\Documents\rogozin_sat\printer_software\EasyPrint\EasyPrint\obj\Debug\EasyPrint_MarkupCompile.cache
+C:\Users\yotam\Documents\rogozin_sat\printer_software\EasyPrint\EasyPrint\obj\Debug\EasyPrint_MarkupCompile.lref
+C:\Users\yotam\Documents\rogozin_sat\printer_software\EasyPrint\EasyPrint\obj\Debug\MainWindow.baml
+C:\Users\yotam\Documents\rogozin_sat\printer_software\EasyPrint\EasyPrint\obj\Debug\EasyPrint.g.resources
+C:\Users\yotam\Documents\rogozin_sat\printer_software\EasyPrint\EasyPrint\obj\Debug\EasyPrint.Properties.Resources.resources
+C:\Users\yotam\Documents\rogozin_sat\printer_software\EasyPrint\EasyPrint\obj\Debug\EasyPrint.csproj.GenerateResource.Cache
+C:\Users\yotam\Documents\rogozin_sat\printer_software\EasyPrint\EasyPrint\obj\Debug\EasyPrint.csproj.CoreCompileInputs.cache
+C:\Users\yotam\Documents\rogozin_sat\printer_software\EasyPrint\EasyPrint\obj\Debug\EasyPrint.exe
+C:\Users\yotam\Documents\rogozin_sat\printer_software\EasyPrint\EasyPrint\obj\Debug\EasyPrint.pdb

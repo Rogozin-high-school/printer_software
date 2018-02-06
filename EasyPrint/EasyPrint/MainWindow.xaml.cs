@@ -23,6 +23,25 @@ namespace EasyPrint
         public MainWindow()
         {
             InitializeComponent();
+            SetProgress(30);
+            SetIndicatorColor(Colors.Red);
+        }
+
+        /*
+        *  Sets the progressbar percentage 
+        */
+        public void SetProgress(float percent)
+        {
+            progressBar.Width = Width * percent / 100;
+            progressBar.Height = Height * 0.07f;
+        }
+
+        /*
+        *  Sets the progressbar color 
+        */
+        public void SetIndicatorColor(Color c)
+        {
+            progressBar.Fill = new SolidColorBrush(c);
         }
     }
 }
